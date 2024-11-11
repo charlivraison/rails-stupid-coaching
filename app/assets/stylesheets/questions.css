@@ -1,0 +1,16 @@
+blockquote {
+  border-left: 10px solid #CCCCCC;
+  margin: 1.5em 10px;
+  padding: 0.5em 10px;
+  p {
+    display: block;
+  }
+  .question {
+    background-color: #F9F9F9;
+  }
+
+  .answer {
+    background-color: #FFFEE7;
+    font-weight: bold;
+  }
+}
